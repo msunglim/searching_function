@@ -1,0 +1,11 @@
+프로젝트만들기 익숙해질때까지 쓸거야
+폴더하나 만들어놓지말고! 폴더의 부모폴더에서 터미널을 시작한뒤, ㄱ을 실행하고 그 폴더안으로 cd해서 들어가서 ㄴ을 실행하라.
+ㄱ. npx create-react-app projectName   이러면 뭐가 주루룩생성됨
+ㄴ. npm run start로 실행해보자. 개가튼 애러가 뜬다면 이런걸 해보자,, npm i web-vitals --save-dev
+
+ㅡㅡㅡㅡ
+* json파일 불러오기
+일반 js와 다른점은 json파일을 읽을때 js는 xmlhttp로 개 ㅈㄹ을 하면서 불러오지만 
+킹갓 리액토는 단순히 import lang from './language.json' 이런식으로 불러와서 lang을 통해사용한다.
+
+*이
