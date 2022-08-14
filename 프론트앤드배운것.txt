@@ -8,4 +8,11 @@
 일반 js와 다른점은 json파일을 읽을때 js는 xmlhttp로 개 ㅈㄹ을 하면서 불러오지만 
 킹갓 리액토는 단순히 import lang from './language.json' 이런식으로 불러와서 lang을 통해사용한다.
 
-*이
+*이미존재하는 폴더 깃헙에추가하기
+git remote add origin https://github.com/msunglim/searching_function.git
+git branch -M main
+git push -u origin main
+이거하고 오류뜰시에..
+
+git add --all하고
+git push -u origin main 
