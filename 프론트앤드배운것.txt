@@ -16,3 +16,11 @@ git push -u origin main
 
 git add --all하고
 git push -u origin main 
+
+아니 이것도안되면
+git commit -m "커밋이름"
+git add .
+git status
+git push origin main
+이정도면될듯..
+ㅡㅡㅡㅡㅡㅡㅡㅡ
